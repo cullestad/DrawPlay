@@ -1,3 +1,8 @@
+/*
+ * Authors: Cody Ullestad, Emelyn Pak
+ */
+
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
