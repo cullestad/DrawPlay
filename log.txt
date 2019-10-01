@@ -1,0 +1,72 @@
+commit dd83b4d3ab857d2779a5bfa6581768dd5e7afd51
+Author: Emelyn Pak <epak@mines.edu>
+Date:   Tue Oct 1 11:52:29 2019 -0600
+
+    Added our names to the project
+
+commit dabdb916f23b097fae3102836ff71b4a24437399
+Author: Cody Ullestad <cullestad@mines.edu>
+Date:   Tue Oct 1 11:50:43 2019 -0600
+
+    More Meows
+
+commit e814f2c64640920994bbedb05d6cfabeae47bb83
+Author: Emelyn Pak <epak@mines.edu>
+Date:   Tue Oct 1 11:49:12 2019 -0600
+
+    Changed text color to white
+
+commit 9ace1659da384c4a7740cb027ab995a2c80ec22c
+Author: Cody Ullestad <cullestad@mines.edu>
+Date:   Tue Oct 1 11:47:42 2019 -0600
+
+    Change mouth color to black
+
+commit d87afee0ddbe6151b1d06fb659f93dbad8d42c94
+Author: Emelyn Pak <epak@mines.edu>
+Date:   Tue Oct 1 11:45:51 2019 -0600
+
+    changed the eye height and width
+
+commit 5bcf08a5c1b4e34ac179b0c71b604f0ddd393c8b
+Merge: c37084c 563f885
+Author: Emelyn Pak <epak@mines.edu>
+Date:   Tue Oct 1 11:43:10 2019 -0600
+
+    Merge branch 'master' of https://github.com/cullestad/DrawPlay
+
+commit c37084c11bf98dd45701bc032c00be54c28fe48b
+Author: Emelyn Pak <epak@mines.edu>
+Date:   Tue Oct 1 11:42:30 2019 -0600
+
+    Larger eye height
+
+commit 563f885e2a314003c7231ccd56dd25e75203b9a8
+Author: Cody Ullestad <cullestad@mines.edu>
+Date:   Tue Oct 1 11:41:01 2019 -0600
+
+    Blue Cat
+
+commit c5789b476d5321af7b6c65520bd72a7c80e33b4d
+Author: Emelyn Pak <epak@mines.edu>
+Date:   Tue Oct 1 11:39:06 2019 -0600
+
+    Smaller head
+
+commit 412fee07855e0e5356f61868a2134c74682e9c43
+Author: Emelyn Pak <epak@mines.edu>
+Date:   Tue Oct 1 11:29:37 2019 -0600
+
+    Initial commit
+
+commit 60055382d7461067efdbd4b53d0f305c23398264
+Author: Cody Ullestad <cullestad@mines.edu>
+Date:   Tue Oct 1 11:17:05 2019 -0600
+
+    Initial Commit
+
+commit a464003a570bc5c1e214b674f6731e6d92a8fe79
+Author: cullestad <54776548+cullestad@users.noreply.github.com>
+Date:   Tue Oct 1 11:03:32 2019 -0600
+
+    Initial commit
